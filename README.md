@@ -11,7 +11,7 @@
 - pkg upgrade
 - pkg install php
 - pkg install git
-- git clone https://github.com/arimaulanafirmansyah/spotitit
+- git clone https://github.com/wastarevoer/spotitit
 - cd spotitit
 - php index.php
 
