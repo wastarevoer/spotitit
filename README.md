@@ -2,7 +2,7 @@
 - Install Xampp
 - Add Path PHP (https://dinocajic.medium.com/add-xampp-php-to-environment-variables-in-windows-10-af20a765b0ce)
 - Install Git Clone
-- Git clone https://github.com/arimaulanafirmansyah/spotitit
+- Git clone https://github.com/wastarevoer/spotitit
 - cd spotitit
 - php index.php
 
